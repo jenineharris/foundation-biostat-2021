@@ -128,15 +128,15 @@ Other options:
     + Purchase paperback directly from Sage using the "SAGE30" coupon code (cost: $87.50) 
 * Rent eBook from Amazon, RedShelf, [VitalSource](https://www.vitalsource.com/products/statistics-with-r-jenine-k-harris-v9781506388144?term=9781506388151) (cost: Approximately $55/6 months) 
 
-**If you are taking this course from somewhere other than St. Louis, Missouri, and therefore cannot access the free versions at the library and the cost of the book is a barrier, please contact Dr. Harris -as soon as possible- directly at harrisj@wustl.edu and we will find a free solution for you!**
+**If you are taking this course from somewhere other than St. Louis, Missouri, and therefore cannot access the free versions at the library and the cost of the book is a barrier, please contact Dr. Harris -as soon as possible- at harrisj@wustl.edu and we will find a free solution for you!**
 
 ### VII.	ORGANIZATION OF COURSE
 
-This class is flipped! This means that, instead of lecturing over zoom, most lectures are pre-recorded and assigned to watch outside of class. In class we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first hour will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second and third hours of the course will be a hands-on workshop format using R to apply the statistical concepts. During the 3rd hour each week, the TA (Laura Brugger) will be available in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
+This class is flipped! This means that, instead of lecturing over zoom, most lectures are pre-recorded and assigned to watch outside of class. In class we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first scheduled hour of class will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second and third hours of the course will be a hands-on workshop format using R to apply the statistical concepts and discuss interpretation and some of the theory. During the 3rd hour each week, the TA (Laura Brugger) will be available in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
 
 A few weeks will not use the workshop format and instead we will have a course book club, project work time, and final project discussion and peer reviews. 
 
-The course work is designed to introduce you to statistical approaches common in the social sciences. In addition to the two hours you spend in class each week, expect to spend 5-8 hours each week reading, reviewing course materials, working on exercises and projects. The total course commitment should be about 10 hours/week on average over the course of the semester. 
+The course work is designed to introduce you to statistical approaches common in the social sciences. In addition to the two hours you spend in class each week, expect to spend 5-8 hours each week reading, reviewing course materials, meeting with the instructor or TA, and working on exercises and projects. The total course commitment should be about 10 hours/week on average over the course of the semester. 
 
 If you are working on coursework outside of class time and your books and other materials do not contain enough information for you to complete the work, there are multiple options for you to get help: 
 
@@ -179,11 +179,11 @@ During the course you will earn points by completing individual projects and a b
 
 **Late work is not accepted. Specific late work policies:** 
 
-*What happens if I don't submit the course project during checkpoints?* The project will not be scored and the percentage available for the project will be *added to the weight of your final submission*. Because a small number of points (5% of points) for the final project are earned by making revisions based on feedback during checkpoints, those points will only be available to you if you submit drafts at one or more of the checkpoints or, if you miss the checkpoints, Dr. Harris will provide an unscored review *one time* if the project is submitted via email at least 2 weeks prior to the final project due date. Withough incorporating feedback from scored checkpoints or an unscored review, a 100% grade on the final will not be possible. 
+*What happens if I don't submit the course project during checkpoints?* The project will not be scored and the percentage available for the checkpoint will be *added to the weight of your final submission*. Because a small number of points (about 5% of points) for the final project are earned by making revisions based on feedback during checkpoints, those points will only be available to you if you submit drafts at one or more of the checkpoints or, if you miss the checkpoints, Dr. Harris will provide an unscored review *one time* if the project is submitted via email at least 2 weeks prior to the final project due date. Without incorporating feedback from scored checkpoints or an unscored review, a 100% grade on the final will not be possible. 
 
-Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board fun thread.
+Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board.
  
-*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1500 word paper discussing the topics from the book club night. This paper is due by the final course meeting.
+*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1000 word paper discussing the topics from the book club night. This paper is due by the final course meeting.
 
 *What happens if my statistics in the wild is late?* Your score will be 0. Start early so that even if you have difficult life event(s) late in the semester you still have something to submit! 
 
@@ -202,15 +202,15 @@ The highest threshold you reach will be your earned grade:
 
 **Statistics in the wild (15%)** (DUE December 1)
 
-Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science and artificial intelligence/machine learning. These projects are designed to take 12-16 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
+Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science along with an increasing focus on research quality and reproducibility. Many of the options listed will address one or both of these areas. These projects are designed to take 12-16 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
 
-(1) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course discussion board. 
+(1) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial product you create should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course discussion board. 
 
 (2) Listen to a minimum of 3 hours of statistics or R related podcast(s) and write a discussion board podcast review post of *400 to 500 words*. The post should have three parts: (1) a summary of the topics in the episodes you listened to (with episode names), (2) a discussion of the relevance (or lack of relevance) of the topics to you and/or your profession, and (3) a recommendation to other students about the podcast (worth the time? not worth the time?).  
 
 (3) Read _Rigor Mortis_ by Richard Harris or _Science Fictions_ by Stuart Ritchie or _Weapons of Math Destruction_ by Cathy O'Neil or _Factfulness_ by Hans Rosling or _Algorithms of Oppression_ by Safiya Noble and write a discussion board book review post of *400 to 500 words*. The post should have three parts: (1) a summary of the book, (2) a discussion of the relevance (or lack of relevance) of the topics in the book to you and/or your profession, and (3) a recommendation to other students about the book (worth the time? not worth the time?). 
 
-(4) Identify a quantitative published article that uses a publicly available data set like NHANES or BRFSS, or an article you are able to obtain the data for in some other way. Reproduce a table or figure from the article as closely as you can using R. Write a very brief post on the class discussion board that about your project including any challenges you faced. Attach an R-Markdown file to the post that includes the R code you used to reproduce the figure or table. Note: it is often much more challenging than it seems to reproduce a table or figure, I recommend choosing a short table or a simple figure!
+(4) Identify a quantitative published article that uses a publicly available data set like NHANES or BRFSS, or an article you are able to obtain the data for in some other way. Reproduce a table or figure from the article as closely as you can using R. Write a very brief post on the class discussion board that about your project including any challenges you faced. Attach an R-Markdown file to the post that includes the R code you used to reproduce the figure or table. Note: it is often much more challenging than it looks to reproduce a table or figure, I recommend choosing a short table or a simple figure!
 
 Statistics in the Wild projects will be graded as complete (100), partial (70), or incomplete/missing (0). If you feel uncomfortable posting your project to the class discussion board under your own name, remove your name from the work and send it via email to Dr. Harris and include the name of the post; Dr. Harris will post it for you confidentially. See schedule for due date and **plan ahead**!
 
@@ -224,13 +224,13 @@ Additional details will become available when book club gets closer. Like Statis
 
 **Class project (Checkpoints DUE September 30, , Final DUE December 10)**
 
-Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board three times, twice at midterm checkpoints and once as a final project. 
+Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board three times, twice at checkpoints and once as a final project. 
 
 * The data set you select must have the following characteristics:
     + A variable of interest (outcome variable) that is categorical or continuous 
     + A minimum of 4 variables including at least one continuous variable and at least one categorical variable with more than 2 categories that you hypothesize have some relationship to the variable of interest (predictor variables)
 
-*Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE September 30)*
+*Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class September 30)*
 
 * A link to the data set online or a copy of the original data file 
 * A link to the codebook online or a copy of the codebook
@@ -245,7 +245,7 @@ Find a data set on your own and use the data to answer a research question of yo
         + How many observations and variables are there? 
         + How were the outcome and predictors measured? (data types, categories, values)
 
-*Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE *
+*Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class October 28)*
 
 * Everything from Checkpoint 1 with revisions/changes made based on instructor feedback
 * New code and text in the R-Markdown file to:
@@ -253,15 +253,19 @@ Find a data set on your own and use the data to answer a research question of yo
     + Clean the data 
         + Recoding and labelling variables as needed 
         + Ensuring missing values are properly coded 
-    + Select, compute, and interpret appropriate descriptive statistics and/or graphs that clearly show the values of each variable including the outcome and predictor variables 
+    + Select and compute appropriate descriptive statistics for each variable including the outcome and predictor variables
+        + Display in a well-formatted table 
+        + Interpret the descriptive statistics in single paragraph 
+    + Select and create appropriate graphs to explore the relationships between each predictor variable and the outcome variable
+        + Interpret each graph in one or two sentences
 * A small percentage of your score will be based on your reviews of other student midterm discussion board posts
     
-*The final project is worth 50% of your course grade and should include the following:*
+*The final project is worth 50% of your course grade and should include the following: (DUE before class December 10)*
 
 * Everything from checkpoints with revisions based on the feedback you received from Dr. Harris and your classmates
 * Additional text and code added to your R-Markdown file that: 
     + Selects appropriate bivariate tests for each of the predictor variables with the outcome variable based on data type and assumption checking
-        + Include text and code for all assumption checking in the file 
+        + Include code for all assumption checking in the file and some explanation of whether and why each assumption was met or unmet
     + Conducts and interprets the bivariate tests for each predictor variable with the outcome variable (minimum of 4 tests)
     + 1-2 paragraphs answering the research question(s) based on your results, putting your results in the context of other research in the area (what do they confirm? what do they add?), and suggestions for future directions for research or practice 
         + Cite a minimum of 5 published sources that either have the same research topic or are related to the research questions or results
@@ -282,8 +286,8 @@ Participating in team work and the class Discussion Board and/or zoom activities
 BEFORE CLASS:
 
 * Install R and RStudio 
-* Spend 30 minutes reading Chapter 1 and/or skimming the book
-* Read the entire syllabus
+* Spend 15 minutes starting to read Chapter 1 and another 15 minutes skimming the entire book (first 3 chapters free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
+* Read the entire syllabus 
 
 IN CLASS (zoom room 613 926 5756): 
 
@@ -295,7 +299,7 @@ IN CLASS (zoom room 613 926 5756):
 
 BEFORE CLASS:
 
-* Complete Chapter 1 exercises 
+* Finish reading Harris Chapter 1 and complete Chapter 1 exercises 
 * Read Harris Chapter 2 through section 2.7.1.1 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
 * Watch Chapter 2 videos (as needed)
     + Data types https://youtu.be/lHSYCc3faCI
@@ -307,61 +311,73 @@ BEFORE CLASS:
     + Range, IQR https://youtu.be/nrFuianQpWc
     + Indices of Qualitative Variation https://youtu.be/MAUwBx73ddc
 * Read Criado-Perez Chapters 1-2 (optional/recommended)
-* Start thinking about Statistics in the Wild project options 
+* Start looking for data for your class project (optional/recommended) 
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-    + Zoom in to work with your classmates
-* Time to work on Chapter 2 exercises (coder #1-6 or hacker #1-7, your choice) (third hour)
+* Check-in/warm-up/Q & A (bring your questions about Chapters 1 & 2!)
+* R workshop
 
-## Week 3 (September 9): Data Cleaning  and Making Tables of Descriptives
+## Week 3 (September 9): Data Cleaning and Making Tables of Descriptives
 
 BEFORE CLASS: 
 
-* Complete Chapter 2 exercises 
-* Read Harris Chapter 2 sections 2.7-2.8 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
-* Watch Chapters 2 and 3 videos (as needed)
+* Read Harris Chapter 2 sections 2.7.1.2 - 2.7.1.3 (free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
+* Watch Chapter 2 video (as needed)
     + Cleaning data for tables https://youtu.be/b0JTumTPtW8
+* Complete Chapter 2 exercises Coder edition #1 - 5 and Hacker edition #6 - 7
 * Read Criado-Perez Chapter 3 (optional/recommended)
-* Pick a Statistics in the Wild project and identify needed materials (optional/recommended)
+* Start looking for data for your course project (optional/recommended)
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 2 exercises (coder #7-9 or hacker #8-10, your choice)
-     + Chapter 3 exercises (coder #1-3)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
 ## Week 4 (September 16): Graphs for a Single Variable  
 
 BEFORE CLASS:
-
-* Complete Chapters 2 & 3 exercises  
-* Read Harris Chapter 3 sections 3.6-3.8 
+  
+* Read Harris Chapter 3 up to section 3.6 
 * Watch Chapter 3 videos (as needed)
-    + Plots for two categorical variables https://youtu.be/rbufQOkMKp0
-    + Plots for one categorical and one continuous variable https://youtu.be/f2_04owTHSQ
-    + Plots for two continuous variables https://youtu.be/GGmcAvVWEag
+    + Graphs for a single categorical variable https://youtu.be/mXUa0pMWw_I
+    + Graphs for a single continuous variable https://youtu.be/W5iGyvNwAYo
+* Complete Chapter 3 exercises Coder edition #1 - 3 
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
-* Obtain materials for Statistics in the Wild project and make a plan 
+* Finalize your data set selection for the course project 
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 3 exercises (coder #4-6 or hacker)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
-## Week : Graphs for 2 Variables 
+## Week 5 (September 23): Graphs for 2 Variables 
 
-## Week 5 (September 23): Probability & Sampling
+BEFORE CLASS:
+  
+* Read Harris Chapter 3 sections 3.6 - 3.8 
+* Watch Chapter 3 videos (as needed)
+    + Plots for two categorical variables https://youtu.be/rbufQOkMKp0
+    + Plots for one categorical and one continuous variable https://youtu.be/f2_04owTHSQ
+    + Plots for two continuous variables https://youtu.be/GGmcAvVWEag
+* Complete Chapter 3 exercises Coder edition #4-6 or Hacker edition
+* Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
+* Review the Statistics in the Wild options and start planning (optional/recommended) 
+
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
+
+* One-on-one appointments (first hour; sign up on Canvas)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
+
+## Week 6 (September 30): Probability & Sampling
 
 BEFORE CLASS: 
 
-* Complete Chapter 3 exercises 
+* TURN IN CHECKPOINT 1
 * Read Harris Chapter 4 
 * Watch Chapter 4 videos (as needed)
     + Binomial probability distributions https://youtu.be/XwDyg7zx3jA
