@@ -222,7 +222,7 @@ For book club you will be assigned to a team by the topic you are most intereste
 
 Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is also part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
-**Class project (Checkpoints DUE September 30, , Final DUE December 10)**
+**Class project (Checkpoints DUE September 30 & October 28, Final DUE December 10)**
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board three times, twice at checkpoints and once as a final project. 
 
@@ -262,7 +262,7 @@ Find a data set on your own and use the data to answer a research question of yo
     
 *The final project is worth 50% of your course grade and should include the following: (DUE before class December 10)*
 
-* Everything from checkpoints with revisions based on the feedback you received from Dr. Harris and your classmates
+* Everything from checkpoints 1 and 2 with revisions based on the feedback you received from Dr. Harris and your classmates
 * Additional text and code added to your R-Markdown file that: 
     + Selects appropriate bivariate tests for each of the predictor variables with the outcome variable based on data type and assumption checking
         + Include code for all assumption checking in the file and some explanation of whether and why each assumption was met or unmet
@@ -273,7 +273,7 @@ Find a data set on your own and use the data to answer a research question of yo
 
 You MUST PASS the final project with a total of 70% or higher to pass the class. 
 
-The midterm and final projects contribute to meeting the *Foundational knowledge* statement and cover all three *Foundational competencies* from section II.
+The course project contributes to meeting the *Foundational knowledge* statement and covers all three *Foundational competencies* from section II.
 
 **Participation and professionalism (5%)** 
 
@@ -365,7 +365,7 @@ BEFORE CLASS:
     + Plots for two continuous variables https://youtu.be/GGmcAvVWEag
 * Complete Chapter 3 exercises Coder edition #4-6 or Hacker edition
 * Read Criado-Perez Chapters 4 & 5 (optional/recommended) 
-* Review the Statistics in the Wild options and start planning (optional/recommended) 
+* Finalize your data set and work on checkpoint 1 for the course project
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
@@ -377,7 +377,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS: 
 
-* TURN IN CHECKPOINT 1
+* Submit CHECKPOINT 1 to Canvas
 * Read Harris Chapter 4 
 * Watch Chapter 4 videos (as needed)
     + Binomial probability distributions https://youtu.be/XwDyg7zx3jA
@@ -386,16 +386,15 @@ BEFORE CLASS:
     + Samples to populations https://youtu.be/kIM_xHTtlfU
     + Confidence intervals https://youtu.be/qKbf7suSKcI
 * Read Criado-Perez Chapters 6 & 7 (optional/recommended) 
-* Find midterm/final project data (optional/recommended)
+* Review the Statistics in the Wild options and start planning (optional/recommended) 
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 4 exercises (coder or hacker; RMD will be available on GitHub)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
-## Week 6 (September 30): Bivariate for two categorical variables
+## Week 7 (October 7): Bivariate for two categorical variables
 
 BEFORE CLASS:
 
@@ -415,30 +414,13 @@ BEFORE CLASS:
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 5 exercises (coder or hacker; RMD will be available on GitHub)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
-## Week 7 (October 7): Project work day 
-
-BEFORE CLASS:
-
-* Complete Chapter 5 exercises 
-* Work on midterm project (optional/recommended)
-
-DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
-
-* One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Midterm project
-
-
-## Week 8 (October 14): Bivariate for one binary categorical and one continuous variable
+## Week 8 (October 14): Bivariate tests for one continuous variable and one binary variable 
 
 BEFORE CLASS:
 
-* Post midterm project to discussion board, include a very brief description of the project and attach or link your R Markdown and data files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
     + Graphs and descriptive stats https://youtu.be/ycTJCN1_NQc
@@ -453,15 +435,13 @@ BEFORE CLASS:
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 6 exercises (coder or hacker; RMD will be available on GitHub)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
 ## Week 9 (October 21): Bivariate for one multi-category (3+) categorical and one continuous variable  
 
 BEFORE CLASS:
 
-* From the class discussion board, download the R Markdown files for 2 midterm projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 6 exercises 
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
@@ -480,9 +460,15 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Time to work on: (third hour)
      + Chapter 7 exercises (coder or hacker; RMD will be available on GitHub)
 
-## Week 10 (October 28): Bivariate for two continuous variables 
+## Week 10 (October 28): Course Project Work Week 
+
+Bivariate for two continuous variables 
 
 BEFORE CLASS:
+
+* Post CHECKPOINT 2 to discussion board, include a very brief description of the project and attach or link your R Markdown, data, and codebook files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
+
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * Complete Chapter 7 exercises 
 * Read Harris Chapter 8 
@@ -498,14 +484,14 @@ BEFORE CLASS:
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 
-DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
+DURING CLASS TIME  
 
 * One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (second hour)
 * Time to work on: (third hour)
      + Chapter 8 exercises (coder or hacker; RMD will be available on GitHub)
 
-## Week 11 (November 4): Linear regression 
+## Week 11 (Nov 4): Linear regression 
 
 BEFORE CLASS:
 
@@ -532,6 +518,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS:
 
+* From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 9 exercises 
 * Read Harris Chapter 10 
 * Watch Chapter 10 videos (as needed)
