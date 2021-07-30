@@ -216,13 +216,13 @@ Statistics in the Wild projects will be graded as complete (100), partial (70), 
 
 All options meet at least one competency depending on what the student selects and their approach.
 
-**Book club (10%)** (HELD/DUE December 2)
+**Book club (10%) (HELD/DUE December 2)**
 
-For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity will take place over zoom during class time. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know if your team is using additional technology and you would like to test it ahead of time.
+For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity will take place over zoom during class time. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know if your team is using additional technology and you would like to test it ahead of time. The discussions/activities should be planned so that they work via zoom
 
-Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is also part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
+Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
-**Class project (Checkpoints DUE September 30 & October 28, Final DUE December 10)**
+**Course project (Checkpoints DUE September 30 & October 28, Final DUE December 9)**
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board three times, twice at checkpoints and once as a final project. 
 
@@ -269,6 +269,7 @@ Find a data set on your own and use the data to answer a research question of yo
     + Conducts and interprets the bivariate tests for each predictor variable with the outcome variable (minimum of 4 tests)
     + 1-2 paragraphs answering the research question(s) based on your results, putting your results in the context of other research in the area (what do they confirm? what do they add?), and suggestions for future directions for research or practice 
         + Cite a minimum of 5 published sources that either have the same research topic or are related to the research questions or results
+    + R-Markdown formatting options for a fully reproducible document
 * A small percentage of your score will be based on your reviews of other student final project discussion board posts
 
 You MUST PASS the final project with a total of 70% or higher to pass the class. 
@@ -281,13 +282,14 @@ Participating in team work and the class Discussion Board and/or zoom activities
 
 **Schedule**
 
-## Week 1 (August 27): Course intro & data preparation (plan to be available during class time this week)
+## Week 1 (August 26): Course intro & data preparation (plan to be attend class this week)
 
 BEFORE CLASS:
 
 * Install R and RStudio 
-* Spend 15 minutes starting to read Chapter 1 and another 15 minutes skimming the entire book (first 3 chapters free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
-* Read the entire syllabus 
+* Spend 15 minutes starting to read Harris Chapter 1 and another 15 minutes skimming the entire Harris book (first 3 chapters free from Sage: https://us.sagepub.com/en-us/nam/statistics-with-r/book253567#preview)
+* <a href = "https://www.cameo.com/v/5f2b392a0299b100202e624a?_branch_match_id=822633227470473860">Read the syllabus</a> 
+* Get the course books or make a plan for getting the course books
 
 IN CLASS (zoom room 613 926 5756): 
 
@@ -319,7 +321,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions about Chapters 1 & 2!)
 * R workshop
 
-## Week 3 (September 9): Data Cleaning and Making Tables of Descriptives
+## Week 3 (September 9): Data Cleaning and Making Tables 
 
 BEFORE CLASS: 
 
@@ -417,7 +419,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 8 (October 14): Bivariate tests for one continuous variable and one binary variable 
+## Week 8 (October 14): Bivariate tests for one continuous variable and one binary categorical variable 
 
 BEFORE CLASS:
 
@@ -438,10 +440,19 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 9 (October 21): Bivariate for one multi-category (3+) categorical and one continuous variable  
+## Week 9 (October 21): One-on-one meeting week / Open work day
+
+* One-on-one appointments available all hours of class + additional hours today
+    + Assistance with finding data, making data management decisions, writing code, formatting tables and figures, interpreting results, etc.
+    + Sign up on Canvas
+    + Harris Zoom room: 613 926 5756
+    + Brugger Zoom room: 261 526 2045
+
+## Week 10 (October 28): Bivariate for one multi-category (3+) categorical and one continuous variable  
 
 BEFORE CLASS:
 
+* Post CHECKPOINT 2 to discussion board, include a very brief description of the project and attach or link your R Markdown, data, and codebook files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
 * Complete Chapter 6 exercises 
 * Read Harris Chapter 7 
 * Watch Chapter 7 videos (as needed)
@@ -456,20 +467,14 @@ BEFORE CLASS:
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 7 exercises (coder or hacker; RMD will be available on GitHub)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
-## Week 10 (October 28): Course Project Work Week 
+## Week 11 (November 4): Bivariate for two continuous variables 
 
-Bivariate for two continuous variables 
+BEFORE CLASS: 
 
-BEFORE CLASS:
-
-* Post CHECKPOINT 2 to discussion board, include a very brief description of the project and attach or link your R Markdown, data, and codebook files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
-
-DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
-
+* From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 7 exercises 
 * Read Harris Chapter 8 
 * Watch Chapter 8 videos (as needed)
@@ -484,82 +489,49 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Read Criado-Perez Chapters 11 & 12 (optional/recommended) 
 * Work on Statistics in the Wild (optional/recommended)
 
-DURING CLASS TIME  
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 8 exercises (coder or hacker; RMD will be available on GitHub)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
-## Week 11 (Nov 4): Linear regression 
+## Week 13 (November 11): Simple Linear & Logistic regression (Guest instructor: Laura Brugger)
 
 BEFORE CLASS:
 
-* Complete Chapter 8 exercises 
-* Read Harris Chapter 9 
+* Read Harris Chapter 9.1 through 9.8 
 * Watch Chapter 9 videos (as needed)
     + Linear regression exploratory data analysis https://youtu.be/dSfek9iVsos
     + Computing the slope and intercept https://youtu.be/vpg32XCGurc
     + Slope value, significance, and CI https://youtu.be/KvOsMRz3Qaw
     + Model significance and model fit https://youtu.be/73sinb00veo
-    + Assumptions and diagnostics https://youtu.be/BS1QM8D0ZyI
-    + Adding more variables to the model https://youtu.be/eApd3nXK5Fk
-* Read Criado-Perez Chapter 13 and meet with book club group to plan (optional/recommended) 
-* Work on Statistics in the Wild (optional/recommended)
-
-DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
-
-* One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 9 exercises (coder or hacker; RMD will be available on GitHub)
-
-## Week 12 (November 11): Logistic regression (Guest instructor: Laura Brugger)
-
-BEFORE CLASS:
-
-* From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
-* Complete Chapter 9 exercises 
-* Read Harris Chapter 10 
+* Read Harris Chapter 10.1 through 10.7 
 * Watch Chapter 10 videos (as needed)
     + Exploratory data analysis https://youtu.be/Waqt9HyjlaE
     + The logistic model https://youtu.be/gkvLRnXzXZY
     + Estimate a simple model https://youtu.be/gyMDVvSRauI
     + Model fit https://youtu.be/ZFQWZtbbmHc
-    + Larger logistic models https://youtu.be/8VMrb87PANQ
     + Interpreting odds ratios https://youtu.be/s5SwecUxWRE
-    + Assumptions and diagnostics https://youtu.be/5-9sA3tAcZ0
-    + Predicted probabilities https://youtu.be/TX8eqKEX4T0
-    + Interaction terms https://youtu.be/O_YZ6RvCnj0
-    + Comparing models https://youtu.be/xabMmHPonbc
-* Review feedback from midterm (optional/recommended)
 * Work on Statistics in the Wild (optional/recommended)
 
 DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today: 261 526 2045): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-     + Chapter 10 exercises (coder or hacker; RMD will be available on GitHub)
-     + Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
+     + Last hour of class: Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
 
+## Week 12 (November 18): Creating fully reproducible reports in R-Markdown
 
-## Week 13 (November 18): Open work day
+BEFORE CLASS:
 
-BEFORE CLASS: 
-
-* Complete Chapter 10 exercises 
-* Finish Statistics in the Wild (optional/recommended)
-* Review feedback from midterm (optional/recommended)
+* Watch video (To be added)
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (second hour)
-* Time to work on: (third hour)
-    + Whatever you want to work on, suggestions:
-         + Finish any planning for book club 
-         + Work on final project
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
 
 ## Week 14 (December 2): Book club (plan to be available during class time this week)
 
@@ -569,7 +541,7 @@ BEFORE CLASS:
 * Finalize book club activity with group & instructor if needed 
     + Please share your plans with Dr. Harris ahead of time so she can be prepared for screen sharing, zoom rooms, or whatever else you have planned 
 
-DURING CLASS TIME (attendance may be required, to be determined): 
+DURING CLASS TIME (attendance required): 
 
 * Book club! 
 
