@@ -126,7 +126,7 @@ Other options:
 
 ### VII.	ORGANIZATION OF COURSE
 
-This class is (mostly) flipped! This means that, instead of lecturing over zoom, most lectures are pre-recorded and assigned to watch outside of class. In class we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first scheduled hour of class will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second and third hours of the course will be a hands-on workshop format using R to apply the statistical concepts and discuss interpretation and theory. During the 3rd hour each week, the TA (Laura Brugger) will be available in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
+This class is (mostly) flipped! This means that, instead of lecturing over zoom, most lectures are pre-recorded and available to watch outside of class. The information in the videos can also be gained by reading the assigned book chapters. In class we will use the time for hands-on activities that resemble what you might usually consider homework. Most weeks the first scheduled hour of class will be reserved for one-on-one appointments (sign up on Discussion Board in Canvas), the second and third hours of the course will be a hands-on workshop format using R to apply the statistical concepts and discuss interpretation and theory. During the 3rd hour each week, the TA (Laura Brugger) will be available in a separate zoom room available for one-on-one assistance (Zoom ID: 261 526 2045).
 
 A few weeks will not use the workshop format and instead we will have a course book club, project work time/one-on-one appointments, and final project discussion and peer reviews. 
 
@@ -489,7 +489,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 13 (November 11): Simple Linear & Logistic regression (Guest instructor: Laura Brugger)
+## Week 12 or 13 (November 11 or 18): Simple Linear & Logistic Regression (Guest instructor: Laura Brugger)
 
 BEFORE CLASS:
 
@@ -507,6 +507,7 @@ BEFORE CLASS:
     + Model fit https://youtu.be/ZFQWZtbbmHc
     + Interpreting odds ratios https://youtu.be/s5SwecUxWRE
 * Work on Statistics in the Wild (optional/recommended)
+* Work on Book Club (optional/recommended)
 
 DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today: 261 526 2045): 
 
@@ -515,7 +516,7 @@ DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today
 * R workshop
      + Last hour of class: Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
 
-## Week 12 (November 18): Creating fully reproducible reports in R-Markdown
+## Week 12 or 13 (November 11 or 18): Creating Reproducible Reports in R-Markdown
 
 BEFORE CLASS:
 
