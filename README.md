@@ -16,11 +16,11 @@
 ### Instructor: Jenine Harris 
 * email: harrisj@wustl.edu
 * student hours location: Zoom room 613 926 5756
-* student hours: Tuesdays noon-3pm & first hour of scheduled class time for each class
+* student hours: Mondays noon - 2pm & first hour of scheduled class time for each class
 
 ### Teaching assistant: Laura Brugger 
 * email: laura.brugger@wustl.edu 
-* student hours: TBA
+* student hours: Tuesdays 11am - noon, Wednesdays 8am - 9am
 * student hours location: Zoom room 261 526 2045
 
 ### I.	COURSE DOMAIN AND BOUNDARIES
@@ -489,7 +489,19 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 12 or 13 (November 11 or 18): Simple Linear & Logistic Regression (Guest instructor: Laura Brugger)
+## Week 12 (November 11): Creating Reproducible Reports in R-Markdown
+
+BEFORE CLASS:
+
+* Watch video (To be added)
+
+DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
+
+* One-on-one appointments (first hour; sign up on Canvas)
+* Check-in/warm-up/Q & A (bring your questions)
+* R workshop
+
+## Week 13 (November 18): Simple Linear & Logistic Regression (Guest instructor: Laura Brugger)
 
 BEFORE CLASS:
 
@@ -515,18 +527,6 @@ DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
      + Last hour of class: Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
-
-## Week 12 or 13 (November 11 or 18): Creating Reproducible Reports in R-Markdown
-
-BEFORE CLASS:
-
-* Watch video (To be added)
-
-DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
-
-* One-on-one appointments (first hour; sign up on Canvas)
-* Check-in/warm-up/Q & A (bring your questions)
-* R workshop
 
 ## Week 14 (December 2): Book club (plan to be available during class time this week)
 
