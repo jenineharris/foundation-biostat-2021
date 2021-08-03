@@ -448,7 +448,7 @@ BEFORE CLASS:
 
 * Post CHECKPOINT 2 to discussion board, include a very brief description of the project and attach or link your R Markdown, data, and codebook files (due before class starts this week). If you feel uncomfortable posting your work under your name, send the brief description and files to Dr. Harris by 10am CST the day it is due and she will post it for you confidentially. If you choose to do this, please note that Dr. Harris will not review the files before posting, so if you have left your name in the files it will still be there.
 * Complete Chapter 6 exercises 
-* Read Harris Chapter 7 
+* Read Harris Chapter 7 through section 7.9
 * Watch Chapter 7 videos (as needed)
     + Exploratory data analysis for ANOVA https://youtu.be/0RBLJcbuTCg
     + Conducting ANOVA https://youtu.be/l1HzOJ6hBEU
@@ -456,7 +456,6 @@ BEFORE CLASS:
     + Effect sizes for ANOVA https://youtu.be/UrVmtRkrEqI
     + ANOVA assumptions https://youtu.be/1nXXt0YV6Hg
     + Alternative tests when assumptions fail https://youtu.be/gT8WzeR2MSU
-    + Two-way ANOVA https://youtu.be/dlUKCjPcs4A
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
@@ -468,7 +467,6 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS: 
 
-* From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 * Complete Chapter 7 exercises 
 * Read Harris Chapter 8 
 * Watch Chapter 8 videos (as needed)
@@ -493,7 +491,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS:
 
-* Watch video (To be added)
+* From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects CHECKPOINT 2 files completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
