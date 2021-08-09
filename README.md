@@ -171,16 +171,6 @@ During the course you will earn points by completing individual projects and a b
 * 5% professionalism 
 * 70% course project  
 
-**Late work is not accepted. Specific late work policies:** 
-
-*What happens if I don't submit the course project during checkpoints?* The project will not be scored and the percentage available for the checkpoint will be *added to the weight of your final submission*. Because a small number of points (about 5% of points) for the final project are earned by making revisions based on feedback during checkpoints, those points will only be available to you if you submit drafts at one or more of the checkpoints or, if you miss the checkpoints, Dr. Harris will provide an unscored review *one time* if the project is submitted via email at least 2 weeks prior to the final project due date. Without incorporating feedback from scored checkpoints or an unscored review, a 100% grade on the final will not be possible. 
-
-Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board.
- 
-*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1000 word paper discussing the topics from the book club night. This paper is due by the final course meeting.
-
-*What happens if my statistics in the wild is late?* Your score will be 0. Start early so that even if you have difficult life event(s) late in the semester you still have something to submit! 
-
 The highest threshold you reach will be your earned grade: 
 * 95% A 
 * 90% A- 
@@ -196,9 +186,9 @@ The highest threshold you reach will be your earned grade:
 
 **Statistics in the wild (15%)** (DUE December 1)
 
-Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science along with an increasing focus on research quality and reproducibility. Many of the options listed will address one or both of these areas. These projects are designed to take 12-16 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
+Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science along with increasing focus on misinformation, research quality, and reproducibility. Many of the options listed will address one or more of these areas. These projects are designed to take 10-15 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
 
-(1) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial product you create should be an R-Markdown file or a video (approximately 5 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course discussion board. 
+(1) Participate in an online statistics or R coding workshop and create a brief tutorial or video to teach others about something you learned at the workshop. Choosing a tutorial about data management, visualization, or bias in data science are recommended. The tutorial product you create should be an R-Markdown file or a video (approximately 5-10 minute video length). Assume that your audience is the other students in your *Foundations in Public Health: Biostatistics* course. Post the video or R-Markdown file on the course discussion board. 
 
 (2) Listen to a minimum of 3 hours of statistics or R related podcast(s) and write a discussion board podcast review post of *400 to 500 words*. The post should have three parts: (1) a summary of the topics in the episodes you listened to (with episode names), (2) a discussion of the relevance (or lack of relevance) of the topics to you and/or your profession, and (3) a recommendation to other students about the podcast (worth the time? not worth the time?).  
 
@@ -273,6 +263,16 @@ The course project contributes to meeting the *Foundational knowledge* statement
 **Participation and professionalism (5%)** 
 
 Participating in team work and the class Discussion Board and/or zoom activities, providing feedback to the instructor and teaching assistant via course evaluations, and treating your fellow students, teaching assistants, and instructors (regular and guest) in a professional manner are required and will be translated into the professionalism score. Send an email with your mailing address to Dr. Harris (harrisj@wustl.edu) if you would like her to send you book and class hex stickers through the mail :-). 
+
+**Late work is not accepted. Specific late work policies:** 
+
+*What happens if I don't submit the course project during checkpoints?* The project will not be scored and the percentage available for the checkpoint will be *added to the weight of your final submission*. Because a small number of points (about 5% of points) for the final project are earned by making revisions based on feedback during checkpoints, those points will only be available to you if you submit drafts at one or more of the checkpoints or, if you miss the checkpoints, Dr. Harris will provide an unscored review *one time* if the project is submitted via email at least 2 weeks prior to the final project due date. Without incorporating feedback from scored checkpoints or an unscored review, a 100% grade on the final will not be possible. 
+
+Run the following code in R Studio `cowsay::say(what = "Do or do not. There is no try.",by = "yoda")`, try changing the saying inside the quote marks to something else and try changing "yoda" to "cat" or "cow" or another animal. Copy and post your results and code to the discussion board.
+ 
+*What happens if I have to miss book club?* You will still be reviewed by your team for your participation in planning for book club and that will influence your professionalism score for the course. In lieu of your actual attendance at book club for the 10%, you have the option to take a score of zero or to submit a 750-1000 word paper discussing the topics from the book club night. This paper is due by the final course meeting.
+
+*What happens if my statistics in the wild is late?* Your score will be 0. Start early so that even if you have difficult life event(s) late in the semester you still have something to submit! 
 
 **Schedule**
 
