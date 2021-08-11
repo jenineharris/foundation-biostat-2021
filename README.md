@@ -208,13 +208,15 @@ Additional details will become available when book club gets closer. Like Statis
 
 **Course project (Checkpoints DUE September 30 & October 28, Final DUE December 9)**
 
-Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to the course discussion board three times, twice at checkpoints and once as a final project. 
+Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to Canvas once (Checkpoint 1) and to the course discussion board twice (Checkpoint 2, Final Project). 
 
 * The data set you select must have the following characteristics:
     + A variable of interest (outcome variable) that is categorical or continuous 
     + A minimum of 4 variables including at least one continuous variable and at least one categorical variable with more than 2 categories that you hypothesize have some relationship to the variable of interest (predictor variables)
 
 *Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class September 30)*
+
+Submit to **Canvas**:
 
 * A link to the data set online or a copy of the original data file 
 * A link to the codebook online or a copy of the codebook
@@ -231,6 +233,8 @@ Find a data set on your own and use the data to answer a research question of yo
 
 *Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class October 28)*
 
+Submit to **Discussion Board**: 
+
 * Everything from Checkpoint 1 with revisions/changes made based on instructor feedback
 * New code and text in the R-Markdown file to:
     + Import the data 
@@ -246,6 +250,8 @@ Find a data set on your own and use the data to answer a research question of yo
     
 *The final project is worth 50% of your course grade and should include the following: (DUE before class December 10)*
 
+Submit to **Discussion Board**:
+
 * Everything from checkpoints 1 and 2 with revisions based on the feedback you received from Dr. Harris and your classmates
 * Additional text and code added to your R-Markdown file that: 
     + Selects appropriate bivariate tests for each of the predictor variables with the outcome variable based on data type and assumption checking
@@ -254,9 +260,10 @@ Find a data set on your own and use the data to answer a research question of yo
     + 1-2 paragraphs answering the research question(s) based on your results, putting your results in the context of other research in the area (what do they confirm? what do they add?), and suggestions for future directions for research or practice 
         + Cite a minimum of 5 published sources that either have the same research topic or are related to the research questions or results
     + R-Markdown formatting options for a fully reproducible document
+* Optional: A link to the knit R-Markdown file uploaded to <a href = "https://rpubs.com">RPubs</a> 
 * A small percentage of your score will be based on your reviews of other student final project discussion board posts
 
-You MUST PASS the final project with a total of 70% or higher to pass the class. 
+You MUST PASS the course project with a total of 70% or higher to pass the class. 
 
 The course project contributes to meeting the *Foundational knowledge* statement and covers all three *Foundational competencies* from section II.
 
