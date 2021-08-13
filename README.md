@@ -184,7 +184,7 @@ The highest threshold you reach will be your earned grade:
 
 #### Graded components of the course
 
-**Statistics in the wild (15%)** (DUE December 1)
+**STATISTICS IN THE WILD (15% of course grade; DUE December 1)**
 
 Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science along with increasing focus on misinformation, research quality, and reproducibility. Many of the options listed will address one or more of these areas. These projects are designed to take 10-15 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
 
@@ -200,13 +200,13 @@ Statistics in the Wild projects will be graded as complete (100), partial (70), 
 
 All options meet at least one competency depending on what the student selects and their approach.
 
-**Book club (10%) (HELD/DUE December 2)**
+**BOOK CLUB (10% of course grade; HELD/DUE December 2)**
 
 For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity will take place over zoom during class time. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know if your team is using additional technology and you would like to test it ahead of time. The discussions/activities should be planned so that they work via zoom
 
 Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
-**Course project (Checkpoints DUE September 30 & October 28, Final DUE December 9)**
+**COURSE PROJECT (70% of course grade; Checkpoints DUE September 30 & October 28, Final DUE December 9)**
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to Canvas once (Checkpoint 1) and to the course discussion board twice (Checkpoint 2, Final Project). 
 
@@ -214,7 +214,7 @@ Find a data set on your own and use the data to answer a research question of yo
     + A variable of interest (outcome variable) that is categorical or continuous 
     + A minimum of 4 variables including at least one continuous variable and at least one categorical variable with more than 2 categories that you hypothesize have some relationship to the variable of interest (predictor variables)
 
-*Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class September 30)*
+**Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class September 30)**
 
 Submit to **Canvas**:
 
@@ -231,7 +231,7 @@ Submit to **Canvas**:
         + How many observations and variables are there? 
         + How were the outcome and predictors measured? (data types, categories, values)
 
-*Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class October 28)*
+**Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class October 28)**
 
 Submit to **Discussion Board**: 
 
