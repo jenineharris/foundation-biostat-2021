@@ -269,7 +269,7 @@ The course project contributes to meeting the *Foundational knowledge* statement
 
 **Participation and professionalism (5%)** 
 
-Participating in team work and the class Discussion Board and/or zoom activities, providing feedback to the instructor and teaching assistant via course evaluations, and treating your fellow students, teaching assistants, and instructors (regular and guest) in a professional manner are required and will be translated into the professionalism score. Send an email with your mailing address to Dr. Harris (harrisj@wustl.edu) if you would like her to send you book and class hex stickers through the mail :-). 
+Participating in team work and the class Discussion Board and/or zoom activities, providing feedback to the instructor and teaching assistant via course evaluations, and treating your fellow students, teaching assistants, and instructors (regular and guest) in a professional manner are required and will be translated into the professionalism score. Missing more than one scheduled office hour appointment will result in a small professionalism penalty; when students sign up but do not attend, this takes available options away from their colleagues (exceptions may be made for unforeseen and unavoidable absences). Send an email with your mailing address to Dr. Harris (harrisj@wustl.edu) if you would like her to send you book and class hex stickers through the mail :-). 
 
 **Late work is not accepted. Specific late work policies:** 
 
