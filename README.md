@@ -420,7 +420,15 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 8 (October 14): Bivariate tests for one continuous variable and one binary categorical variable 
+## Week 8 (October 14): One-on-one meeting week / Open work day
+
+* One-on-one appointments available all hours of class + additional hours today
+    + Assistance with finding data, making data management decisions, writing code, formatting tables and figures, interpreting results, etc.
+    + Sign up on Canvas
+    + Harris Zoom room: 613 926 5756
+    + Brugger Zoom room: 261 526 2045
+
+## Week 9 (October 21): Bivariate tests for one continuous variable and one binary categorical variable 
 
 BEFORE CLASS:
 
@@ -440,14 +448,6 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * One-on-one appointments (first hour; sign up on Canvas)
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
-
-## Week 9 (October 21): One-on-one meeting week / Open work day
-
-* One-on-one appointments available all hours of class + additional hours today
-    + Assistance with finding data, making data management decisions, writing code, formatting tables and figures, interpreting results, etc.
-    + Sign up on Canvas
-    + Harris Zoom room: 613 926 5756
-    + Brugger Zoom room: 261 526 2045
 
 ## Week 10 (October 28): Bivariate for one multi-category (3+) categorical and one continuous variable  
 
