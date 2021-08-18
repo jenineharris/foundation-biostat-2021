@@ -186,7 +186,7 @@ The highest threshold you reach will be your earned grade:
 
 #### Graded components of the course
 
-**STATISTICS IN THE WILD (15% of course grade; DUE December 1)**
+**STATISTICS IN THE WILD (15% of course grade; DUE December 8)**
 
 Choose ONE of the following projects to complete ON YOUR OWN. The purpose of this project is to introduce sources of statistics information and voices in statistics outside this course. This is a very exciting and critical time for statistics, with a rapidly developing focus on bias and how the data community can work to reduce or eliminate bias in data science along with increasing focus on misinformation, research quality, and reproducibility. Many of the options listed will address one or more of these areas. These projects are designed to take 10-15 hours total, so plan accordingly. Timing may vary based on how quickly (or slowly) you read, write, and code. Email Dr. Harris a cat (or statistics) meme by October 1st to earn 1% to add to your final project score. 
 
@@ -202,13 +202,13 @@ Statistics in the Wild projects will be graded as complete (100), partial (70), 
 
 All options meet at least one competency depending on what the student selects and their approach.
 
-**BOOK CLUB (10% of course grade; HELD/DUE December 2)**
+**BOOK CLUB (10% of course grade; HELD/DUE December 9)**
 
 For book club you will be assigned to a team by the topic you are most interested in and your team will be responsible for leading a class discussion or activity on the topic. The discussion or activity will take place over zoom during class time. The discussion or activity should include opportunities for participation by other students in the class with clear instructions for how to participate. Please let Dr. Harris know if your team is using additional technology and you would like to test it ahead of time. The discussions/activities should be planned so that they work via zoom
 
 Additional details will become available when book club gets closer. Like Statistics in the Wild, the book club team scores will be complete (100), partial (70), or incomplete (0). Contributing to your book club team is part of the professionalism score in class and your team will be asked to evaluate your contribution. It is possible that students in the same team will receive different scores if peer-evaluations indicate a lack of contribution by one or more team members. 
 
-**COURSE PROJECT (70% of course grade; Checkpoints DUE September 30 & October 28, Final DUE December 9)**
+**COURSE PROJECT (70% of course grade; Checkpoints DUE October 7 & November 4, Final DUE December 16)**
 
 Find a data set on your own and use the data to answer a research question of your choice. If you choose one of the data sets we have used in class, the research question and variables used should be different from what we did in class. It is ok if one or two of the variables are the same, but the majority should be something other than what was demonstrated in the chapter, videos, and exercises. You will work on this data throughout the semester and submit your work to Canvas once (Checkpoint 1) and to the course discussion board twice (Checkpoint 2, Final Project). 
 
@@ -216,7 +216,7 @@ Find a data set on your own and use the data to answer a research question of yo
     + A variable of interest (outcome variable) that is categorical or continuous 
     + A minimum of 4 variables including at least one continuous variable and at least one categorical variable with more than 2 categories that you hypothesize have some relationship to the variable of interest (predictor variables)
 
-**Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class September 30)**
+**Checkpoint 1 is worth 5% of your course grade and should include the following: (DUE before class October 7)**
 
 Submit to **Canvas**:
 
@@ -233,7 +233,7 @@ Submit to **Canvas**:
         + How many observations and variables are there? 
         + How were the outcome and predictors measured? (data types, categories, values)
 
-**Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class October 28)**
+**Checkpoint 2 is worth 15% of your course grade and should include the following: (DUE before class November 4)**
 
 Submit to **Discussion Board**: 
 
@@ -250,7 +250,7 @@ Submit to **Discussion Board**:
         + Interpret each graph in one or two sentences
 * A small percentage of your score will be based on your reviews of other student midterm discussion board posts
     
-**The final project is worth 50% of your course grade and should include the following: (DUE before class December 9)**
+**The final project is worth 50% of your course grade and should include the following: (DUE before class December 16)**
 
 Submit to **Discussion Board**:
 
@@ -285,7 +285,7 @@ Run the following code in R Studio `cowsay::say(what = "Do or do not. There is n
 
 **Schedule**
 
-## Week 1 (August 26): Course intro & data preparation (plan to be attend class this week)
+## Week 1 (September 2): Course intro & data preparation (plan to be attend class this week)
 
 BEFORE CLASS:
 
@@ -300,7 +300,7 @@ IN CLASS (zoom room 613 926 5756):
 * Syllabus review & questions  
 * Intro activities for R, R Studio, TA Zoom room, Discussion board
 
-## Week 2 (September 2): Data Cleaning & Descriptive statistics
+## Week 2 (September 9): Data Cleaning & Descriptive statistics
 
 BEFORE CLASS:
 
@@ -324,7 +324,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions about Chapters 1 & 2!)
 * R workshop
 
-## Week 3 (September 9): Data Cleaning and Making Tables 
+## Week 3 (September 16): Data Cleaning and Making Tables 
 
 BEFORE CLASS: 
 
@@ -341,7 +341,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 4 (September 16): Graphs for a Single Variable  
+## Week 4 (September 23): Graphs for a Single Variable  
 
 BEFORE CLASS:
   
@@ -359,7 +359,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 5 (September 23): Graphs for 2 Variables 
+## Week 5 (September 30): Graphs for 2 Variables 
 
 BEFORE CLASS:
   
@@ -378,7 +378,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 6 (September 30): Probability & Sampling
+## Week 6 (October 7): Probability & Sampling
 
 BEFORE CLASS: 
 
@@ -399,7 +399,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 7 (October 7): Bivariate for two categorical variables
+## Week 7 (October 14): Bivariate for two categorical variables
 
 BEFORE CLASS:
 
@@ -422,15 +422,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 8 (October 14): One-on-one meeting week / Open work day
-
-* One-on-one appointments available all hours of class + additional hours today
-    + Assistance with finding data, making data management decisions, writing code, formatting tables and figures, interpreting results, etc.
-    + Sign up on Canvas
-    + Harris Zoom room: 613 926 5756
-    + Brugger Zoom room: 261 526 2045
-
-## Week 9 (October 21): Bivariate tests for one continuous variable and one binary categorical variable 
+## Week 8 (October 21): Bivariate tests for one continuous variable and one binary categorical variable 
 
 BEFORE CLASS:
 
@@ -451,7 +443,15 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 10 (October 28): Bivariate for one multi-category (3+) categorical and one continuous variable  
+## Week 9 (October 28): One-on-one meeting week / Open work day
+
+* One-on-one appointments available all hours of class + additional hours today
+    + Assistance with finding data, making data management decisions, writing code, formatting tables and figures, interpreting results, etc.
+    + Sign up on Canvas
+    + Harris Zoom room: 613 926 5756
+    + Brugger Zoom room: 261 526 2045
+
+## Week 10 (November 4): Bivariate for one multi-category (3+) categorical and one continuous variable  
 
 BEFORE CLASS:
 
@@ -472,7 +472,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 11 (November 4): Bivariate for two continuous variables 
+## Week 11 (November 11): Bivariate for two continuous variables 
 
 BEFORE CLASS: 
 
@@ -496,7 +496,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 12 (November 11): Creating Reproducible Reports in R-Markdown
+## Week 12 (November 18): Creating Reproducible Reports in R-Markdown
 
 BEFORE CLASS:
 
@@ -508,7 +508,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 * Check-in/warm-up/Q & A (bring your questions)
 * R workshop
 
-## Week 13 (November 18): Simple Linear & Logistic Regression (Guest instructor: Laura Brugger)
+## Week 13 (December 2): Simple Linear & Logistic Regression (Guest instructor: Laura Brugger)
 
 BEFORE CLASS:
 
@@ -535,7 +535,7 @@ DURING CLASS TIME (optional attendance via zoom; use Laura's zoom room for today
 * R workshop
      + Last hour of class: Dr. Harris will be available for one-on-one in her zoom room 613 926 5756
 
-## Week 14 (December 2): Book club (plan to be available during class time this week)
+## Week 14 (December 9): Book club (plan to be available during class time this week)
 
 BEFORE CLASS:
 
@@ -547,7 +547,7 @@ DURING CLASS TIME (attendance required):
 
 * Book club! 
 
-## Week 15 (December 9): Final project videos & discussion board (plan to be available during class time this week)
+## Week 15 (December 16): Final project videos & discussion board (plan to be available during class time this week)
 
 BEFORE CLASS: 
 
