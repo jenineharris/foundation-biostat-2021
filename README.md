@@ -263,7 +263,7 @@ Submit to **Discussion Board**:
 * Optional: A link to the knit R-Markdown file uploaded to <a href = "https://rpubs.com">RPubs</a> 
 * A small percentage of your score will be based on your reviews of other student final project discussion board posts
 
-You MUST PASS the course project with a total of 70% or higher to pass the class. 
+You MUST PASS the course project with a total of 70% or higher on the final project submission to pass the class. 
 
 The course project contributes to meeting the *Foundational knowledge* statement and covers all three *Foundational competencies* from section II.
 
