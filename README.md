@@ -248,7 +248,7 @@ Submit to **Discussion Board**:
         + Interpret each graph in one or two sentences
 * A small percentage of your score will be based on your reviews of other student midterm discussion board posts
     
-*The final project is worth 50% of your course grade and should include the following: (DUE before class December 10)*
+**The final project is worth 50% of your course grade and should include the following: (DUE before class December 9)**
 
 Submit to **Discussion Board**:
 
