@@ -122,7 +122,7 @@ Other options:
     + Purchase Statistics with R paperback directly from Sage using the "SAGE30" coupon code (cost: $87.50) 
 * Rent Statistics with R eBook from Amazon, RedShelf, [VitalSource](https://www.vitalsource.com/products/statistics-with-r-jenine-k-harris-v9781506388144?term=9781506388151) (cost: Approximately $55/6 months) 
 
-**If you are taking this course from somewhere other than St. Louis, Missouri, and therefore cannot access the free versions at the library and the cost of the book is a barrier, please contact Dr. Harris -as soon as possible- at harrisj@wustl.edu and we will find a free solution for you!**
+If you are taking this course from somewhere other than St. Louis, Missouri, and therefore cannot access the free versions at the library and the cost of the book is a barrier, please contact Dr. Harris -as soon as possible- at harrisj@wustl.edu and we will find a free solution for you!
 
 Please note that, based on my contract with the publisher, I do not expect to receive any royalties from purchases of my book for this semester and, if somehow I do unexpectedly receive royalties, I will donate them back to the Brown School for scholarships.
 
