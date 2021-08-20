@@ -426,6 +426,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS:
 
+* Complete Chapter 5 exercises 
 * Read Harris Chapter 6
 * Watch Chapter 6 videos (as needed)
     + Graphs and descriptive stats https://youtu.be/ycTJCN1_NQc
@@ -500,6 +501,7 @@ DURING CLASS TIME (optional attendance in zoom room 613 926 5756):
 
 BEFORE CLASS:
 
+* Complete Chapter 8 exercises
 * From the class discussion board, download the R Markdown files (and data if needed) for 2 course projects CHECKPOINT 2 files completed by other students. Open and knit each Markdown file. Provide a brief review of the work on the discussion board (3-5 bullet points). If it will not knit, try to figure out why and provide your classmate with any hints you come up with.
 
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
