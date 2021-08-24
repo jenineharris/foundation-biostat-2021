@@ -9,7 +9,7 @@
 
 # 1) Open the 2013-2014 NHANES data file saved as nhanes_2013_ch1.csv
 
-# Choose one of the four ways of importing data and delete the other 3 
+# Choose one of the ways of importing data and delete the others 
 
 # import  method 1
 # bring in directly from the internet (most reproducible but also most time consuming during the import)
@@ -19,21 +19,14 @@ nhanes <- read.csv(unz(temp, "Datasets/data/nhanes_2013_ch1.csv"))
 
 # import method 2
 # save data file locally on your computer and use the full file path
-nhanes <- read.csv("[full file path on your computer goes here]/nhanes_2013_ch1.csv")
+nhanes <- read.csv("[full file path goes here]/nhanes_2013_ch1.csv")
 
 # import method 3
 # save data file locally on your computer and set the working directory
 # so you don't need the full file path
 # use menu Session -> Set Working Directory -> To Source File Location
 # make sure the data file is in the same folder as this code file
-nhanes <- read.csv("nhanes_2013_ch1.csv")
-
-# import method 4
-# save data file locally on your computer and use the here package
-# so you don't need the full file path
-# use Tools -> Install Packages to install the here package before running this
-# code chunk
-here::here()
+# OK TO USE IF NECESSARY, BUT BETTER TO FIGURE OUT ONE OF THE OTHER METHODS
 nhanes <- read.csv("nhanes_2013_ch1.csv")
 
 
