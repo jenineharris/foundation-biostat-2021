@@ -335,6 +335,9 @@ BEFORE CLASS:
 * Read Criado-Perez Chapter 3 (optional/recommended)
 * Start looking for data for your course project (optional/recommended)
 
+IF YOU DO NOT ATTEND ZOOM CLASS:
+* Browse and watch/read about R-Markdown: https://rmarkdown.rstudio.com/lesson-1.html
+
 DURING CLASS TIME (optional attendance in zoom room 613 926 5756): 
 
 * One-on-one appointments (first hour; sign up on Canvas)
