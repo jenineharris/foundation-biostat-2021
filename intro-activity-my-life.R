@@ -46,7 +46,7 @@ my_life_df %>%
 library(package = "waffle")
 
 # make a waffle plot with each column showing 1 year
-waffle(parts = my_life_df, rows = 12)
+waffle(parts = deframe(my_life_df), rows = 12)
 
 
 # Resources for doing more with your waffle and bar--
