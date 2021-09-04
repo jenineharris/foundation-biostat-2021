@@ -1,0 +1,25 @@
+---
+title: "Chapter 7 Exercises - Coder & Hacker"
+output: html_document
+---
+
+# Coder Exercises
+
+Use the GSS2018.rda data from this chapter and the appropriate tests to examine technology use (USETECH) by happiness (HAPPY).
+
+1) Open the data using the load() strategy shown in this chapter.
+2) Clean the happiness, sex, and tech use variables so they have clear variable names, category labels, and missing value coding.
+3) Use graphics and descriptive statistics to exam- ine tech use on its own, by sex, and by happiness (Achievement 1).
+4) Based on the graphs and statistics from Question 3, make a prediction about what you would find when you compare tech use across groups by happiness and by sex (Achievement 1).
+5) Conduct the appropriate test to compare mean time using tech across happiness groups. If the F-statistic is significant, use a post hoc test to determine which means are statistically significantly different from each other. Interpret your results (Achievements 2 and 3).
+6) Check assumptions for the ANOVA and conduct an appropriate alternate analysis if it does not pass assumptions. Interpret your results (Achievements 3 and 5).
+7) Conduct a two-way ANOVA with time using technol- ogy by sex and happiness. Interpret results and check assumptions (Achievement 6).
+
+
+# Hacker Exercises
+
+Complete the coder edition and also do the following:
+
+8) Use the graphics in Question 3 to hypothesize which happiness groups have different tech use means. Write planned comparisons instead to test your hypotheses and conduct an appropriate planned comparison analysis instead of post hoc tests in Question 5.
+
+9) Conduct and interpret post hoc tests for the two-way ANOVA developed in Question 7.

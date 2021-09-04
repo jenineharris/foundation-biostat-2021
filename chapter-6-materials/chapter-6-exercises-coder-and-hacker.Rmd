@@ -1,0 +1,25 @@
+---
+title: "Chapter 6 Exercises"
+author: "Jenine Harris"
+date: "9/23/2020"
+output: html_document
+---
+
+# Coder Edition
+
+Depending on your score in the knowledge check, choose either the coder or hacker edition of the chapter exercises. Use the NHANES data from this chapter and the appropri- ate tests to examine diastolic blood pressure for males and females.
+1) Open the 2015–2016 NHANES data using the strategy shown in this chapter.
+2) Clean the sex variable and the two diastolic blood pressure measurement variables so they have clear names, category labels, and missing value coding.
+3) Use graphics and descriptive statistics to exam- ine Measure 1 on its own and by participant sex (Achievement 1).
+4) Use graphics and descriptive statistics to examine Measure 2 on its own (Achievement 1).
+5) Based on the graphs and statistics from Questions 3 and 4, make predictions about what you would find when you compare the mean diastolic blood pressure from Measure 1 and Measure 2 (Achievement 1).
+6) Based on the graphs and statistics from Questions 3 and 4, make predictions about what you would find when you compare the mean diastolic blood pressure from Measure 1 by sex (Achievement 1).
+7) Select and use the appropriate t-test to compare Measure 1 for males and females, then interpret your results using the test statistics and p-value along with a graph showing the two groups. Check assump- tions for this test. If the assumptions were not met, conduct and interpret the appropriate alternate test (Achievements 3–5).
+8) Select and use the appropriate t-test to compare the means of Measure 1 and Measure 2, then interpret
+your results using the test statistics and p-value. Check assumptions for this test. If the assumptions were not met, conduct and interpret the appropriate alternate test (Achievements 4–6).
+
+# Hacker Edition
+
+Complete #1 through #8 of the coder edition, then complete the following:
+9) Restrict the data to a subset of people under 50 years old. Using the appropriate test, compare their mean diastolic blood pressure to the normal threshold of 80. Interpret your results and check the test assumptions. If the test does not meet assumptions, conduct and interpret the appropriate alternate test (Achievements 2 and 5).
+10) Restrict the data to a subset of people 50+ years old. Using the appropriate test, compare their mean diastolic blood pressure to the normal threshold of 80. Interpret your results and check the test assumptions. If the test does not meet assumptions, conduct and interpret the appropriate alternate test (Achievements 2 and 5).

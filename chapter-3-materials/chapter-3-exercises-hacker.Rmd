@@ -1,0 +1,41 @@
+---
+title: "Chapter 3 Exercises: Hacker Edition"
+author: "Jenine Harris"
+date: "8/22/2020"
+output: html_document
+---
+
+CHAPTER 3 HACKER EXERCISES
+
+Use the NHANES data and create well-formatted, appropriate graphs for each of the variables below. Format graph 5 to use color to highlight the group with the highest gun usage. 
+
+4) Income and gun use 
+
+```{r}
+# Import the data 
+
+# Clean the income, marital status, and race variables 
+
+# Create a graph for income 
+```
+
+
+5) Race and gun use 
+
+```{r}
+# Create a graph of marital status
+```
+
+
+6) Marital status and gun use
+
+```{r}
+# Create a graph of race 
+```
+
+
+
+
+
+
+

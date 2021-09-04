@@ -1,0 +1,61 @@
+---
+title: "Chapter 2 Exercises: Coder Edition #1-6"
+author: "Jenine Harris"
+date: "8/22/2020"
+output: html_document
+---
+
+NOTE: This is an R-Markdown file. It combines text and code together into one document. Text is written in the white background while R code (including comments) are included in the "code chunks" that have a light gray background, begin with three backticks and {r} and end with three more backticks. To run the code in a code chunk, click ont he small green arrow in the top right corner of the code chunk. Delete this "NOTE" and change the name and date at the top of the file to create a cleaner document. To add more code chunks, place the cursor where you want the code chunk, click on the the "Insert" menu, and choose "R". When you are finished, click on "Knit" to see what happens!
+
+Exercises:
+
+1) Open the transgender_hc_ch2.csv 2014 BRFSS data file.
+
+```{r}
+# import the data
+brfss <- read.csv(file = "")
+```
+
+2) Select the data including only transgender participants
+
+3) Select the data including only the variables of interest.
+
+```{r}
+# Select the transgender participants and
+# variables of interest
+
+```
+
+4) Check the data types of all the variables and fix any that seem incorrect.
+
+```{r}
+# Check the data types 
+
+```
+
+```{r}
+# Fix any that seem incorrect
+
+```
+
+5) Based on the BRFSS codebook, code missing values and add category labels appropriately.
+
+```{r}
+# code missing values and add category labels
+
+```
+
+6) Find teh mean or median value of `PHYSHLTH` (whichever is most appropriate) and create a new factor variable with values above the mean or median labeled as "poor physical health" and values below the mean or median labeled as "good physical health"; check your coding.
+
+```{r}
+# recode physhlth variable
+```
+
+7) Choose and conduct appropriate descriptive statistics for all variables in teh small data set.
+
+```{r}
+# descriptive statistics
+
+```
+
+

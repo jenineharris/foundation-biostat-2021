@@ -1,0 +1,30 @@
+---
+title: 'Chapter 4 Exercises: Hacker Edition'
+output: html_document
+---
+
+Use the pdmp_2017_kff_ch4.csv file from edge.sagepub .com/harris1e to examine the opioid step therapy require- ments variable. This variable is coded as Yes if the state had adopted step therapy guidelines as of 2018 and No if the state had not adopted step therapy guidelines. Recode the variable so that it is 1 for Yes and 0 for No. Give the variable a new name that is easier to use. Answer the following questions:
+
+1. What percentage of states (including Washington, DC) adopted the step therapy guideline as of 2018? What percentage of states did not adopt the step therapy? (Achievement 1)
+
+2. If 10 states were chosen at random, what is the prob- ability that exactly 5 of them would have adopted the step therapy policy? (Achievement 2)
+
+3. If 15 states were chosen at random, what is the proba- bility that 5 of the 15 would have adopted step therapy policy? (Achievement 2)
+
+4. Take a sample of 30 states, compute the proportion of states in the sample that have step therapy guide- lines, and compute the 95% confidence interval for the proportion. Interpret your results. Compare the sample proportion to the population proportion computed in #1. Was the population proportion in the 95% confidence interval for the sample proportions? (Achievement 6)
+
+amfAR, The Foundation for AIDS Research, also publishes data on the distance to needle exchange programs. Needle exchange programs are important for preventing the spread of disease among intravenous drug users, including opioid users. Bring in the opioid_dist_to_needle_exchange_2018.csv file and examine the codebook opioid_county_codebook .xlsx from edge.sagepub.com/harris1e.
+
+5. Find the population mean and standard deviation of distance to needle exchange. The variable name is VALUE. (Achievement 6)
+6. View the data, pick one county, and compute its z-score for distance to needle exchange. Interpret the z-score. (Achievements 3 and 4)
+
+7. Take a random sample of 500 counties and find the mean, standard deviation, and standard error of dis- tance for the sample. (Achievement 6)
+
+8. Compare the population mean for VALUE with the sample mean and sample standard error. (Achievement 6)
+
+9. Compute a 95% confidence interval around the sample mean for distance to needle exchange. Interpret the mean and confidence interval. (Achievement 6)
+
+Complete the questions from the coder edition (above) plus the
+following:
+
+10. For each data set in the coder edition, take 100 samples with an adequate number of observations per sample. Compute and graph the distribution of the sample means (the sampling distribution). Discuss the process, the shape of the distribution, and how the shape of the distribution is related to the Central Limit Theorem.

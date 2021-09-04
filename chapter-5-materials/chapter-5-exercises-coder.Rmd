@@ -1,0 +1,15 @@
+---
+title: 'Chapter 5 Exercises: Coder Edition'
+output: html_document
+---
+
+Use the data from this chapter to better understand who holds the two different opinions about ease of voting. Examine the relationships between the ease of voting variable and sex, political party membership, and employment status.
+
+1) Open the data using the strategy shown in this chapter, and follow the data-cleaning steps in Section 5.4.1.
+2) Clean the remaining variables in the data set so they have clear variable names, category labels, and missing value coding.
+3) Compute the appropriate descriptive statistics to examine the relationships between the ease of voting variable and sex, marital status, employment status, and political party (Achievement 1).
+4) Use the NHST process and test whether or not there is a relationship between opinion on ease of voting and sex, marital status, employment status, and political party (Achievements 2–5).
+5) For any significant chi-squared results, use standardized residuals to identify which groups have lower or higher frequencies than expected and discuss the differences between observed and expected for these groups (Achievement 6).
+6) For any significant chi-squared results, compute, report, and interpret Cramér’s V (Achievement 7).
+7) Check the assumptions and report whether they were met; for any unmet assumptions, explain a possible alternate strategy for analysis (Achievements 2 and 8).
+8) Add a prolog and comments to your code.
