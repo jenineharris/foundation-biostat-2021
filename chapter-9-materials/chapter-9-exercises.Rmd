@@ -1,0 +1,57 @@
+---
+title: "Chapter 9 Exercises"
+output: html_document
+---
+
+Codebook:
+* county: the county name 
+* STATEABBREVIATION: the two-letter abbreviation for the state the county is in 
+* dist_SSP: distance in miles to the nearest syringe services program 
+* HIVprevalence: people age 13 and older living with diagnosed HIV per 100,000 
+* opioid_RxRate: number of opioid prescriptions per 100 people 
+* pctunins: percentage of the civilian noninstitutionalized population with no health insurance coverage 
+* metro: county is non-metro, which includes open countryside, rural towns, or smaller cities with up to 49,999 people, or metro
+
+Coder edition: 
+
+Use the data from this chapter and the appropriate tests to examine number of opioid prescriptions and distance to syringe program.
+
+1) Import the cleaned data set dist_ssp_amfar_ch9.csv from edge.sagepub.com/harris1e.
+
+2) Create a model with number of opioid prescriptions per 100 people as the predictor variable and the distance to syringe program variable transformed using a cube root transformation as the outcome variable.
+
+3) Check the model assumptions. 
+
+4) Interpret the model results.
+
+5) Add the metro variable to the model.
+
+6) Interpret the model results.
+
+7) Compare the larger and smaller models using the Partial-F test.
+
+8) Interpret and report the results of the Partial-F test.
+
+Hacker edition
+
+Complete #1 of the coder edition; then complete the following:
+
+2) Check the distribution of the opioid prescription variable.
+
+3) Try at least three transformations to transfer the opioid prescription variable to a more normally distributed variable; choose the transformation that works the best to normalize the variable.
+
+4) Create a model with percent uninsured as the pre- dictor variable and the distance to syringe program variable transformed using a cube root transformation as the outcome variable.
+
+5) Check the model assumptions.
+
+6) Interpret the model results.
+
+7) Add the transformed opioid prescription variable and the metro variable to the model.
+
+8) Interpret the model results.
+
+9) Compare the larger and smaller models using the
+Partial-F test.
+
+10) Interpret and report the results of the Partial-F test.
+

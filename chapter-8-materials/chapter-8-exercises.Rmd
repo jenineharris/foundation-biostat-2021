@@ -1,0 +1,59 @@
+---
+title: "Chapter 8 Exercises"
+output: html_document
+---
+
+Coder edition: 
+
+Use the data from this chapter and the appropriate tests to examine males and females in school and basic water access.
+
+Codebook:
+
+Definitions of the variables:
+
+* country: the name of the country 
+* med.age: the median age of the citizens in the country 
+* perc.1dollar: percentage of citizens living on $1 per day or less 
+* perc.basic2015sani: percentage of citizens with basic sanitation access 
+* perc.safe2015sani: percentage of citizens with safe sanitation access 
+* perc.basic2015water: percentage of citizens with basic water access 
+* perc.safe2015water: percentage of citizens with safe water access 
+* perc.in.school: percentage of school-age people in primary and secondary school  
+* female.in.school: percentage of female school-age people in primary and secondary school 
+* male.in.school: percentage of male school-age people in primary and secondary school 
+
+The data were all from 2015 from the WHO and UNESCO websites. 
+
+1) Import the water.educ data frame as shown in this chapter.
+
+2) Make a table of descriptive statistics for all the variables in the data frame except for country. Be sure to use appropriate statistics for each variable.
+
+3) Use a graph to examine the relationship between male.in.school and female.in.school (Achievement 1).
+
+4) Use a graph to examine the relationship between male.in.school and perc.basic2015water (Achievement 1).
+
+5) Based on the graphs from Questions 3 and 4, make predictions about what you would find when you conduct Pearson correlation analyses for male .in.school and female.in.school and for male.in.school and perc.basic2015 water (Achievement 1).
+
+6) Conduct a Pearson’s r correlation analysis for each pair of variables. Interpret each r statistic in terms of direc- tion, size, and significance (Achievements 2 and 3).
+
+7) Compute and interpret the coefficient of determina- tion for each pair of variables (Achievement 4).
+
+8) Check assumptions for the Pearson’s r for each pair of variables (Achievement 5).
+
+9) If assumptions are not met for the Pearson’s r, con- duct and interpret a Spearman’s correlation analysis, including assumption testing (Achievement 6).
+
+10) Conduct the appropriate partial correlation (Pearson or Spearman) examining the relationship between male.in.school and perc.basic2015water accounting for perc.1dollar. Check any assumptions not previously checked and interpret your results accordingly (Achievement 7).
+
+11) Write a paragraph explaining what you found and how it compares to the correlation analyses for females in school and water access.
+
+Hacker edition: 
+
+Complete #1 - #9 of the Coder edition, then:
+
+10) Create a new variable by recoding the perc.1dollar variable into 10 categories: 0 to <10, 10 to <20, 20 to <30, and so on. The new variable should have a logical name and clear labels.
+
+11) Conduct the partial correlation between females in school and basic water access accounting for poverty by including this new variable. Use the appropriate kind of partial correlation (Pearson’s or Spearman’s) given the variable type for the new variable.
+
+12) Check assumptions and interpret your results (Achievement 7).
+
+13) Write a paragraph explaining what you found and how the results differed (or did not differ) once you were using the new ordinal version of the poverty variable (Achievements 5 and 7).
