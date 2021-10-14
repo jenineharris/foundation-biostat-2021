@@ -248,7 +248,7 @@ Submit to **Discussion Board**:
         + Interpret the descriptive statistics in single paragraph 
     + Select and create appropriate graphs to explore the relationships between each predictor variable and the outcome variable
         + Interpret each graph in one or two sentences
-* A small percentage of your score will be based on your reviews of other student midterm discussion board posts
+* A small percentage of your score will be based on your reviews of other student checkpoint 2 discussion board posts
     
 **The final project is worth 50% of your course grade and should include the following: (DUE before class December 16)**
 
