@@ -466,7 +466,7 @@ BEFORE CLASS:
     + Exploratory data analysis for ANOVA https://youtu.be/0RBLJcbuTCg
     + Conducting ANOVA https://youtu.be/l1HzOJ6hBEU
     + Post-hoc tests and planned comparisons https://youtu.be/dr4CAi1LxJA
-    + Effect sizes for ANOVA https://youtu.be/UrVmtRkrEqI
+    + Effect sizes for ANOVA https://youtu.be/kB-PLiprSPs
     + ANOVA assumptions https://youtu.be/1nXXt0YV6Hg
     + Alternative tests when assumptions fail https://youtu.be/gT8WzeR2MSU
 
